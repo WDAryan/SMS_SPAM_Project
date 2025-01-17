@@ -2,3 +2,4 @@ streamlit
 scikit-learn
 numpy
 scipy
+deployed url:- https://wdaryan-sms-spam-project-app-aktixi.streamlit.app/
